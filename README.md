@@ -8,4 +8,4 @@ Este repositorio incluye una aplicación de prueba en la que se obtiene un lista
 - El paquete flutter_blue tiene ciertas incompatibilidades con el lenguaje Swift, por lo que la carpeta ios, la cual se genera al crear un proyecto de Flutter, deberá haber sido creada con Objective-C, de lo contrario la aplicación no podrá ser instalada en iOS.
 
 ### A añadir
-- Posibilidad de cambiar advertising times tanto para iOS y Android
+- Posibilidad de cambiar advertising times para iOS y Android
